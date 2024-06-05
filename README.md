@@ -1,1 +1,2 @@
 # TEXT-MINING-FOR-EFFECTIVE-CLASSIFICATION-OF-CAR-PROBLEM-SEVERITY-LEVELS
+This research explores using machine learning to classify car problem severity from customer descriptions. Text mining transforms unstructured text into a format suitable for classification models. A decision tree model achieves high accuracy in classifying severe problems, potentially improving customer satisfaction and service center efficiency. Future work aims to expand the model's capabilities to identify specific car issues and provide repair estimates.
